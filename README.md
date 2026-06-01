@@ -21,19 +21,20 @@ rdbms-design-projects/
 │
 ├── README.md
 ├── airport-database/
-│   ├── problem-statement.pdf
+│   ├── problem-statement.md
 │   ├── conceptual-er-diagram.png
 │   ├── logical-schema.png
-│   ├── schema.sql
+│   ├── relational-schema.sql
 │   └── design-notes.md
 │
 ├── imdb-database/
-│   ├── problem-statement.pdf
+│   ├── problem-statement.md
 │   ├── conceptual-er-diagram.png
 │   ├── logical-schema.png
-│   ├── schema.sql
+│   ├── design-alt.png
+│   ├── relational-schema.sql
 │   └── design-notes.md
 │
-└── docs/
-    └── final-report.pdf
+└── other-docs/
+
 ```
